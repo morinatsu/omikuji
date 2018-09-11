@@ -5,6 +5,8 @@ title: Twitterおみくじ
 
 # Twitterおみくじ
 
+![icon](torii100.gif)
+
 ## Twitterでおみくじを引けます！
 
 [@omikujijp](https://twitter.com/omikujijp)へツイートしてください。おみくじの内容を返信します。ただそれだけのbotです。
@@ -27,7 +29,7 @@ iftttレシピの例： <https://ifttt.com/applets/5591p-daily-omikujijp>
 
 [プログラミングができない人もみんなTwitter Botを作ったらいいよ](http://d.hatena.ne.jp/pha/20090916/twitterbot)
 
-[プログラミングができなくても作れるTwitter botの作り方](http://pha22.net/text/twitterbot.html)
+[プログラミングができなくても作れるTwitter botの作り方](http://pha22.net/twitterbot/)
 
 ## 機能要望・障害報告など
 
