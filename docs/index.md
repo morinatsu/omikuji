@@ -5,7 +5,7 @@ title: Twitterおみくじ
 
 # Twitterおみくじ
 
-![icon](torii100.gif)
+![icon](images/torii100.gif)
 
 ## Twitterでおみくじを引けます！
 
