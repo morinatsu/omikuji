@@ -5,6 +5,8 @@ title: Twitterおみくじ
 
 # Twitterおみくじ
 
+** 2023.05.21 サービス終了しました **
+
 ![icon](images/torii100.gif)
 
 ## Twitterでおみくじを引けます！
